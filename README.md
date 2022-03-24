@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mika-jpd
-- 👀 I’m interested in Data Science, Machine Learning, Natural Language Processing and Software Development
+- 👀 I’m interested in Data Science, Machine Learning, Natural Language Processing and Social Computing
 - 🌱 I’m currently studying Computer Science and Philosophy at McGill University
 - 📫 How to reach me mika.desblancs@gmail.com
 
