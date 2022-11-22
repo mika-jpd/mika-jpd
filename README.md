@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mika-jpd
-- 👀 I’m interested in Data Science, Machine Learning, Natural Language Processing and Social Computing
-- 🌱 I’m currently studying Computer Science and Philosophy at McGill University
+- 👀 I’m mostly interested in Social Computing
+- 🌱 BA in Computer Science and Philosophy at McGill University, currently MSc Cognitive Science at University of Edinburgh
 - 📫 How to reach me mika.desblancs@gmail.com
 
 <!---
